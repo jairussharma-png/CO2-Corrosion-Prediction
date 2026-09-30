@@ -49,7 +49,6 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn.
 
 ## Future Work
 
-- Streamlit dashboard
 - Model deployment
 - Improved uncertainty quantification
 - Validation with experimental/field data
